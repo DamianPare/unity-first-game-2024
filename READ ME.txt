@@ -1,0 +1,14 @@
+movement reference
+https://www.youtube.com/watch?v=xCxSjgYTw9c&t=9s 
+
+shooting reference
+https://www.youtube.com/watch?v=EwiUomzehKU&t=2s 
+
+grid generation
+https://www.youtube.com/watch?v=DRWE_6GoNuI 
+
+roger helped with some debugging but i didnt use any of his code
+
+all assets were made by me :)
+
+scene is fps game
